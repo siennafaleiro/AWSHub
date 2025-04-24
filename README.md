@@ -18,6 +18,7 @@
 - Top 50+ AWS Services Explained in 10 Minutes: ➡️ [**Watch here**](https://youtu.be/JIbIYCM48to) (by **Fireship**)
 - AWS Architecture: 📖 [**Explore here**](https://aws.amazon.com/architecture)
 - AWS Management Console: [**Explore here**](https://aws.amazon.com/console/)
+- AWS Certification - Validate AWS Cloud Skills - Get AWS Certified: ➡️ **[Watch here](https://www.youtube.com/@VM_Exam)**
 
 <!-- Learning-Resource-Begin -->
 <!-- Do not edit the above line manually -->
@@ -89,8 +90,8 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 
 - Certification exam preparation by AWS: [**here**](https://aws.amazon.com/certification/certification-prep/)
 - Check the Exam Guide to understand the purpose and scope and examples of each certification, for example:
-  - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [**here**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
-  - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [**here**](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
+  - AWS Certified Solutions Architect - Associate (SAA-C03) Exam Guide: [**here**](https://www.vmexam.com/aws/saa-c03-aws-solutions-architect-associate)
+  - AWS Certified Solutions Architect - Associate (SAA-C03) Sample Exam Questions: [**here**](https://www.vmexam.com/aws/aws-saa-c03-certification-exam-sample-questions)
 
 ### Course
 
@@ -98,6 +99,7 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 - Jon Bonso: https://www.udemy.com/user/jonjonbonso/
 - Adrian Cantrill: https://learn.cantrill.io/
 - Youtube freeCodeCamp.org: https://youtu.be/NhDYbskXRgc
+- Cloud and Virtualization Solutions VMExam: https://www.youtube.com/@VM_Exam
 
 ### Hands-on/Labs
 
@@ -109,6 +111,7 @@ Preparing for the AWS Certification Exam? Here are my top personal recommendatio
 - Exam Topics - List of all Amazon exams (Free): [**here**](https://www.examtopics.com/exams/amazon/) (E.g: [AWS SAA-C03](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/))
 - TutorialsDojo Pratice Tests (E.g: [AWS SAA-C03](https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/))
 - Udemy - Stephane Maarek's Practice Exams (E.g: [AWS SAA-C03](https://www.udemy.com/course/practice-exams-aws-certified-solutions-architect-associate))
+- All Amazon Exams (Free): [**here**](https://www.vmexam.com/aws) (E.g: [AWS SAA-C03](https://www.vmexam.com/aws/saa-c03-aws-solutions-architect-associate))
 
 ### Guides/Cheat Sheets
 
