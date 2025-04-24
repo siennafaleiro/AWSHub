@@ -1,5 +1,9 @@
 # AWS SAA-C03 learning resources
 
+## Free AWS Certified Solutions Architect - Associate (SAA-C03) Exam
+
+- https://www.vmexam.com/aws/saa-c03-aws-solutions-architect-associate
+
 ## AWS SAA-C03 Official Exam Guide
 
 - https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
