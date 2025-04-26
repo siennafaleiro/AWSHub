@@ -3,12 +3,6 @@
 <p align="center">Welcome to the AWS Hub Repository 👋</p>
 <p align="center">Whether you're a new member of the AWS community or a developer/cloud engineer seeking a centralized document hub for all things AWS, this repository will assist you. Consider this repository as your bookmark for all essential AWS resources, including AWS Certification materials, documentation for AWS services, and AWS Architecture insights. 🔥</p>
 
-<p align="center">
-<a href="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main"><img alt="last commit" src="https://img.shields.io/github/last-commit/tungbq/AWS-LearningResource/main" /></a>
-<a href="https://github.com/tungbq/AWS-LearningResource/releases"><img alt="devops-basic release" src="https://img.shields.io/github/release/tungbq/AWS-LearningResource.svg" /></a>
-
-</p>
-
 ## Getting started 🚀
 
 - What is AWS? | Amazon Web Services: ➡️ [**Watch here**](https://youtu.be/a9__D53WsUs)
